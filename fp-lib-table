@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name sparkfun)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/sparkfun.pretty)(options "")(descr ""))
+  (lib (name PLUG)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/PLUG.pretty)(options "")(descr ""))
+)
