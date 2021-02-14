@@ -1,4 +1,7 @@
 (fp_lib_table
   (lib (name sparkfun)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/sparkfun.pretty)(options "")(descr ""))
   (lib (name PLUG)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/PLUG.pretty)(options "")(descr ""))
+  (lib (name Connector_DebugEdge)(type KiCad)(uri ${KIPRJMOD}/DebugEdge/Connector_DebugEdge.pretty)(options "")(descr ""))
+  (lib (name 10posFPC)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/10posFPC.pretty)(options "")(descr ""))
+  (lib (name chickadee)(type KiCad)(uri ${KIPRJMOD}/kicad-libs/footprints/chickadee.pretty)(options "")(descr ""))
 )

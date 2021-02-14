@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name sparkfun)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/components/sparkfun.lib)(options "")(descr ""))
   (lib (name PLUG)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/components/PLUG.lib)(options "")(descr ""))
+  (lib (name Connector_DebugEdge)(type Legacy)(uri ${KIPRJMOD}/DebugEdge/Connector_DebugEdge.lib)(options "")(descr ""))
 )
